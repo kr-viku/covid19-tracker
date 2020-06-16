@@ -1,0 +1,26 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "This is a covid tracker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vikash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "novelcovid": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr-viku/covid19-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kr-viku/covid19-tracker/issues"
+  },
+  "homepage": "https://github.com/kr-viku/covid19-tracker#readme"
+}

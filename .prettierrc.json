@@ -1,0 +1,84 @@
+{
+  "window.zoomLevel": 1,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "window.newWindowDimensions": "inherit",
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "flow.useNPMPackagedFlow": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.rulers": [100],
+  "editor.cursorBlinking": "expand",
+  "dart.debugSdkLibraries": false,
+  "dart.debugExternalLibraries": false,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": false,
+  "flow.enabled": false,
+  "tslint.enable": false,
+  "extensions.ignoreRecommendations": false,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "problems.decorations.enabled": false,
+  "npm.enableScriptExplorer": true,
+  "workbench.statusBar.feedback.visible": false,
+  "debug.openDebug": "openOnDebugBreak",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/node_modules/rerenderer/**": false
+  },
+  "files.associations": {
+    "*.module": "php",
+    "*.svelte": "html",
+    ".blade.php": "html",
+    ".tpl": "html"
+  },
+  "breadcrumbs.enabled": true,
+  "sync.gist": "",
+  "dart.flutterSdkPath": "/Users/adityajamuar/development/flutter",
+  "workbench.colorTheme": "Night Owl (No Italics)",
+  "terminal.integrated.rendererType": "dom",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.explorerKind": "external",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.fontFamily": "Menlo",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "yaml.schemas": {
+    "file:///Users/adityaj/.vscode/extensions/atlassian.atlascode-2.4.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "intelephense.files.exclude": [
+    "**/.git/**",
+    "**/.svn/**",
+    "**/.hg/**",
+    "**/CVS/**",
+    "**/.DS_Store/**",
+    "**/node_modules/**",
+    "**/bower_components/**"
+  ],
+  "atlascode.jira.lastCreateSiteAndProject": {
+    "siteId": "empty",
+    "projectKey": ""
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "blade.format.enable": true,
+  "editor.maxTokenizationLineLength": 200000000000,
+  "git.confirmSync": false,
+  "[php]": {}
+}
