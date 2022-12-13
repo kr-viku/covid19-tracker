@@ -10,7 +10,7 @@
   "author": "Vikash Kumar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^4.0.4",
     "novelcovid": "^2.2.0"
   },
